@@ -23,6 +23,6 @@
   "include": [
     "./**/*",
     "../node_modules/convex/dist/esm/environment/index.d.ts"
-  ],
-  "exclude": ["./_generated"]
+, "../common.ts"  ],
+  "exclude": ["./_generated", "./functions"]
 }

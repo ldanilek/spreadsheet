@@ -14,6 +14,15 @@
   align-items: center;
 }
 
+.cell {
+  text-align: center;
+  min-width: 10em;
+}
+
+.cellButton {
+  float: right;
+}
+
 .button {
   font-size: 1rem;
   font-weight: 800;
